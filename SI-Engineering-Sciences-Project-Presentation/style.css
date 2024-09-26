@@ -1,0 +1,99 @@
+
+
+
+body, div, ul {margin: 0;padding:0;}
+
+body { font-family :roboto; font-size:13px;  background-image:url(image/si73.jpg);}
+
+#global{width:79%;margin:0 auto;background-image:linear-gradient(white,#85c1e9,grey);background-size: 100%  100%;font-size:25px;}
+
+#entete{height:80px; padding:10px; font-size: 14px;background-image:url(image/tete.png);background-size: 100%  100%; }
+
+#blocmenu{height:36px;background-image:linear-gradient( red,red );background-size: 100%  100%;}
+
+#contenu{padding:10px; background-image:linear-gradient(#b2babb ,   #808b96);background-size: 100%   100%; }
+
+#pied{padding:5px;  background-image:linear-gradient(white, #808b96);background-size: 100%  100%;text-align:center}
+
+#menu li {float:left; list-style-type:none;border:0px solid white;}
+
+#menu li a, #menu li a:visited {padding: 10px; line-height:35px; font-size:14px; text-decoration: none; color:black;}
+
+#menu li a: hover {background-color: lightsteelblue; color: brown}
+
+
+
+#total0{border:0px solid black;text-align: center; }
+
+#test0  {padding-right :auto;border:0px solid pink; display: inline-block;text-align: center;}
+
+
+
+#total1{border:0px solid black;text-align: center; }
+
+#img1  {padding-right :auto;border:0px solid black; display: inline-block;text-align: center;}
+#img2 {padding-left :auto;border:0px solid yellow; display: inline-block;text-align: center;}
+#img3  {padding-left :auto;border:0px solid purple; display: inline-block;text-align: center;}
+
+
+
+
+
+
+#total2{border:0px solid black;text-align: center; }
+
+#img4  {padding-right :auto;border:0px solid white; display: inline-block;text-align: center;}
+#img5 {padding-left :auto;border:0px solid blue; display: inline-block;text-align: center;}
+#img6  {padding-left :auto;border:0px solid red; display: inline-block;text-align: center;}
+
+
+
+#total3{border:0px solid black;text-align: center; }
+
+#img7 {padding-right :auto;border:0px solid brown; display: inline-block;text-align: center;}
+#img8 {padding-left :auto;border:0px solid green; display: inline-block;text-align: center;}
+#img9 {padding-left :auto;border:0px solid orange; display: inline-block;text-align: center;}
+
+
+
+
+
+#theme li a, #theme li a:visited { color:red;}
+#theme{
+	padding-left: 20px; font-size:30px;
+	float:left;
+}
+#contenu h1 li a, #contenu h1 li a:visited { color:black; }
+
+	#search{
+		float:right;
+		height:36px;
+		border:3px solid black;
+		border-radius:40px;
+		outline:none;
+		width:40px;
+		padding-left:20px;
+		background: url(image/si9000.jfif) right no-repeat;
+		transition:width 2s;
+		-webkit-transition:width 2s;
+		-moz-transition:width 2s;
+		-o-transition:width 2s;
+		-ms-transition:width 2s;
+	}
+	#search:focus{
+		width:200px;
+	}
+		#contenu video { width :50% ; height:50%;}
+		
+		
+		
+		
+		
+	#vd1 video {width :50% ; height:50%;}
+	#vd2 video {width :50% ; height:50%;}
+	#vd3 video {width :50% ; height:50%;}
+	#vd4 video {width :50% ; height:50%;}
+	
+	
+	
+	#liste{color: yellow}
