@@ -1,0 +1,60 @@
+
+
+
+body, div, ul {margin: 0;padding:0;}
+
+body { font-family :roboto; font-size:13px;  background-image:url(image/si73.jpg);}
+
+#global{width:79%;margin:0 auto;background-image:linear-gradient(white,#85c1e9,grey);background-size: 100%  100%;font-size:25px;}
+
+#entete{height:80px; padding:10px; font-size: 14px;background-image:url(image/tete.png);background-size: 100%  100%; }
+
+#blocmenu{height:36px;background-image:linear-gradient( red,red );background-size: 100%  100%;}
+
+#contenu{padding:10px; background-image:linear-gradient(#b2babb ,   #808b96);background-size: 100%   100%; }
+
+#pied{padding:5px;  background-image:linear-gradient(white, #808b96);background-size: 100%  100%;text-align:center;}
+
+#menu li {float:left; list-style-type:none;border:0px solid white;}
+
+#menu li a, #menu li a:visited {padding: 10px; line-height:35px; font-size:14px; text-decoration: none; color:black;}
+
+#menu li a: hover {background-color: lightsteelblue; color: brown}
+
+
+
+
+#search{
+		float:right;
+		height:36px;
+		border:3px solid black;
+		border-radius:40px;
+		outline:none;
+		width:40px;
+		padding-left:20px;
+		background: url(image/si90.png) right no-repeat;
+		transition:width 2s;
+		-webkit-transition:width 2s;
+		-moz-transition:width 2s;
+		-o-transition:width 2s;
+		-ms-transition:width 2s;
+	}
+	#search:focus{
+		width:200px;
+	}
+	
+	#vd0 video {border:0px solid white;width :50% ; height:50%;}
+	#vd1 video {width :50% ; height:50%;padding-left:25%;}
+	#vd2 video {width :50% ; height:50%;padding-left:25%;}
+	#vd3 video {width :50% ; height:50%;padding-left:25%;}
+	#vd4 video {width :50% ; height:50%;padding-left:25%;}
+	#vd5 video {width :50% ; height:50%;padding-left:25%;}
+	
+	
+	#tx1  {border:0px solid white;}
+	#tx2  {border:0px solid white;}
+	#tx3  {border:0px solid white;}
+	#tx4  {border:0px solid white;}
+	#tx5  {border:0px solid white;}
+	
+	#contenu h2 {color: blue;}
