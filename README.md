@@ -89,8 +89,8 @@ Cette section enseigne les bases de la programmation en mettant l'accent sur les
 
 ## Contact
 Pour toute question ou suggestion concernant le projet, veuillez nous contacter :
-- **Téléphone** : 06#######
-- **E-mail** : projet.siinformatique@gmail.com
+- **Téléphone** : ** ** ** ** **
+- **E-mail** : projet.general.222@gmail.com
 
 ---
 
