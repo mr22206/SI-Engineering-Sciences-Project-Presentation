@@ -1,4 +1,4 @@
-# Projet SI (Sciences de l'Ingénieur) - Présentation
+# [Projet SI (Sciences de l'Ingénieur) - Présentation](https://mr22206.github.io/SI-Engineering-Sciences-Project-Presentation/index.html)
 
 Bienvenue sur le dépôt GitHub du **Projet SI**, un projet éducatif visant à expliquer et à approfondir plusieurs notions clés des **Sciences de l'Ingénieur**. Ce dépôt contient des ressources pédagogiques et des explications sur des sujets tels que la modélisation 3D, la création de sites web, et la programmation. Ce projet a été conçu pour les étudiants de seconde afin de les initier aux concepts de base de la science de l'ingénieur.
 
