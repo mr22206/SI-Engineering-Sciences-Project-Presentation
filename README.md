@@ -28,19 +28,22 @@ Ce projet vise à fournir une introduction générale à ces concepts pour que l
 
 ### 1. **Présentation des Sciences de l'Ingénieur**
 Le projet propose une explication claire sur ce qu'est la Science de l'Ingénieur, ses objectifs, et pourquoi elle est importante pour les générations futures.
-- 💡 **Illustration suggérée** : Schéma expliquant le rôle des sciences de l'ingénieur dans l'innovation technologique.
+
+![image](https://github.com/user-attachments/assets/61dcefe3-a33f-45a4-910f-7b0e35ea954e)
 
 ### 2. **Modélisation 3D avec SolidWorks**
 La section modélisation présente les concepts de base de la modélisation 3D et explique comment utiliser SolidWorks pour créer des objets tridimensionnels.
-- 💡 **Illustration suggérée** : Capture d'écran d'une modélisation 3D dans SolidWorks.
+
+![image](https://github.com/user-attachments/assets/a4926244-22ae-45e0-a720-59fc8b436c19)
 
 ### 3. **Création de sites web**
 Introduction à la conception de sites web, expliquant ce qu'est un site web, comment il fonctionne, et les différentes technologies utilisées pour sa création (HTML, CSS).
-- 💡 **Illustration suggérée** : Exemples de code HTML pour une page web simple.
+![image](https://github.com/user-attachments/assets/2bf69528-940d-4211-8837-3fe8f7b3f621)
 
 ### 4. **Programmation**
 Cette section enseigne les bases de la programmation en mettant l'accent sur les variables, les boucles, et la création d'interfaces graphiques. Elle est idéale pour ceux qui débutent en codage.
-- 💡 **Illustration suggérée** : Exemples de code en Python avec des explications sur les structures de contrôle.
+
+![image](https://github.com/user-attachments/assets/92e27df6-5a5e-40e7-92f1-8237970e33aa)
 
 ---
 
